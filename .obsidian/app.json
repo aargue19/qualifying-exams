@@ -1,0 +1,11 @@
+{
+  "enabledPlugins": [],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 50
+  }
+}

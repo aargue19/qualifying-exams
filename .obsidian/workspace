@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "08bcb76c9ae1e7bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "51abbe2d77580091",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/Organizational Theory/Legitimacy and Legitimation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f2237a1a36c814c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0b7834dd1e2e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08299e686afee14b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f66fcd611398c66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 663,
+    "collapsed": true
+  },
+  "right": {
+    "id": "20597cf8e26b0174",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e965ffa90aa5b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa8df5632d94760",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Organizational Theory/Legitimacy and Legitimation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51abbe2d77580091",
+  "lastOpenFiles": [
+    "Concepts/Organizational Theory/Untitled.md",
+    "Concepts/Organizational Theory/empty - Haveman, 1993 - Follow the Leader.md",
+    "Concepts/Organizational Theory/Neo-institutionalism and Institutional Theory.md",
+    "Organizational Ecology/Baum, 1996 - Organizational Ecology.md",
+    "Organizational Ecology/Untitled.md",
+    "Untitled 1.md",
+    "Organizational Ecology/Carroll, 1984 - Organizational Ecology.md",
+    "Organizational Ecology/Haveman, 1993 - Follow the Leader.md",
+    "Articles/empty - Haveman, 1993 - Follow the Leader.md",
+    "Untitled.md"
+  ]
+}

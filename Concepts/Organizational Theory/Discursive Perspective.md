@@ -1,0 +1,3 @@
+[[Shenhav, 1995 - From Chaos to Systems]]
+p. 569
+It is my contention that this discourse was stimulated by cultural and political variables. Since the three periodicals I examined were main players in the institutional milieu of the profession, their value for this study goes beyond their contribution as empirical sources. The systematizers themselves acknowledged the "excellent service" and "the efforts of the American Machinist and other journals" in the dissemination and diffusion of systems (see American Machinist, July 8, 1915: 62).
